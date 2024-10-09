@@ -2,7 +2,8 @@
 #This project is a Library Management System API built using Node.js, Express, and MongoDB.It allows users to manage books, users, and borrowing records. The API includes endpoints for creating, retrieving, updating, and deleting books and users, as well as borrowing and returning books.
 
 ##Features
-#Books Management: Add, update, delete, and retrieve books with support for filters like author, genre, and year.
+#Books Management: Add, update, delete, and retrieve books with support for filters like search, genre, and year.
+#search like author name and email
 #User Management: Register and manage users.
 #Borrowing System: Users can borrow and return books.
 #JWT Authentication: Secure endpoints with JWT-based authentication.
