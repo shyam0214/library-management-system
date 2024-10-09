@@ -22,22 +22,31 @@ bash
 Copy code
 git clone [https://github.com/shyam0214/library-management-system.git]
 cd library-management-system
-Install the dependencies command
+Install the dependencies:
+## Installation
+To install the project dependencies, use the following command:
+
+bash
+Copy code
 npm install
-Running the Project
+
+## Running the Project
 To run the project, use the following command:
 
 bash
 Copy code
 npm start
-This will start the server on the default port 4000.
 
-##API Documentation
-The Postman collection for testing the API can be found in the project. 
-You can import it into Postman to test the available API endpoints.
+This will start the server on the default port `4000`.
 
-##Postman Collection
+## API Documentation
+The Postman collection for testing the API can be found in the project. You can import it into Postman to test the available API endpoints.
+
+## Postman Collection
 GitHub Repository
+
 You can find the complete codebase and documentation on GitHub:
 
-GitHub Repository
+GitHub Repository [https://github.com/shyam0214/library-management-system.git]
+
+Thanks for the opportunity!
